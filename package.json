@@ -19,7 +19,7 @@
     "js-cookie": "^2.2.1",
     "jspdf": "^1.5.3",
     "npm": "^6.13.7",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "vue-chartjs": "^3.5.0",
     "vue-qr": "^2.2.1",
     "vue-qrcode-reader": "^2.1.1"
